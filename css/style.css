@@ -588,14 +588,14 @@
   line-height: 60px;
   font-size: 16px;
   font-weight: 600;
-  color: #fff;
-  background-color: #282731;
+  color: #bf930d;
+  background-color: #1013b4;
   padding: 0 30px;
   -webkit-transition: all 0.3s ease-in;
   -moz-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
-  font-family: var(--heading-font);
+  font-family: script;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -4704,7 +4704,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   background-color: #ff4081;
   letter-spacing: 3px;
   font-family: montserrat;
-  color: #fff;
+  color: #1013b4;
   border-radius: 0px 0 5px 5px;
   font-weight: 100;
   font-size: 18px;
@@ -4714,7 +4714,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   z-index: 1000;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
   text-align: center;
-  border: solid 2px #fff;
+  border: solid 2px #1013b4;
   border-top: 0;
   outline: solid 3px #ff4081;
 }
@@ -4853,7 +4853,7 @@ CSS Animations :: Shake
   /* transform-origin: top; */
   height: 100%;
   width: var(--boxSize);
-  background: #fff;
+  background: #1013b4;
   animation-duration: 1.2s;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
